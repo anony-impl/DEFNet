@@ -37,5 +37,3 @@ python main.py
 ```
 mtl = 0 # 0:all(q+s+d)   1:q+s   2:q+d
 ```
-
-as well as the value of `nn_tasks` in line 86.
